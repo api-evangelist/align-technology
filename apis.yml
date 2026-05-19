@@ -7,4 +7,9 @@ description: 'Profile for Align Technology in the API Evangelist network. Fortun
 created: '2026-05-05'
 modified: '2026-05-05'
 specificationVersion: '0.19'
+common:
+  - type: GitHubOrganization
+    url: https://github.com/aligntech
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/align-technology
 apis: []
